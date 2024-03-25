@@ -19,4 +19,4 @@ This repository contains the work I did while learning Flask, a Python web frame
   - **script/**
     - **script.js**: JavaScript file used in `app_4.py`.
 ### References
-- [Krish Naik Tutorial](https://github.com/krishnaik06/Flask-Web-Framework)
+- [Krish Naik Tutorial](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=yRNCSzr8WUkg_P6V)
