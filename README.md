@@ -18,3 +18,5 @@ This repository contains the work I did while learning Flask, a Python web frame
     - **style.css**: CSS file used in `app_4.py`
   - **script/**
     - **script.js**: JavaScript file used in `app_4.py`.
+### References
+- [Krish Naik Tutorial](https://github.com/krishnaik06/Flask-Web-Framework)
